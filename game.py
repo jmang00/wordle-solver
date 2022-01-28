@@ -62,6 +62,7 @@ def game(answer=choice(answers),prnt=True):
 
 game()
 
+
 # Test accuracy
 won = 0
 total = 0
